@@ -1,0 +1,5 @@
+kubectl get pods --namespace=myNewNameSpace
+
+kubectl create namespace nameSpaceNAME
+
+kubectl config set-context $(kubectl config current-context) --namespace=nameSpaceNAME

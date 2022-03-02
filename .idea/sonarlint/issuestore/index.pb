@@ -1,0 +1,21 @@
+
+>
+redis-pod.yaml,3/7/37e307b268626ff7ef033b5ad0c2f8fa0dde2308
+C
+worker-app-pod.yaml,6/0/6035453e07f6c43fc1a8e18653c819615b76dd11
+E
+postgres-service.yaml,2/d/2df02d66902ea975ec6cac10bc39ad9d4dc7d008
+G
+voting-app-service.yaml,0/2/02d466792695fb755e2e70510d341f40e6fa8b94
+G
+result-app-service.yaml,b/a/ba4ed9438bb88450eb33e1fdb71db164ddda347c
+C
+voting-app-pod.yaml,f/8/f845d6376a1637d838a61d9d9f5e057c4830df19
+B
+redis-service.yaml,7/4/7474ce4b662bb3015337c898c08c93a450f35fae
+C
+result-app-pod.yaml,3/8/38aea90557801f071a33842ce0cd065f2931933a
+A
+postgres-pod.yaml,b/e/beb749fe2f9f389c4a3f2bdd578a5a8aad147b4e
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
