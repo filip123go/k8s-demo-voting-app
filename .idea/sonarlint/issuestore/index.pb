@@ -17,5 +17,3 @@ C
 result-app-pod.yaml,3/8/38aea90557801f071a33842ce0cd065f2931933a
 A
 postgres-pod.yaml,b/e/beb749fe2f9f389c4a3f2bdd578a5a8aad147b4e
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
